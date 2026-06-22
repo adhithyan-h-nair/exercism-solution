@@ -1,2 +1,2 @@
 # exercism-solution
-This is a repor to backup my solution from exercism.
+This is a repo to backup my solution from exercism.
